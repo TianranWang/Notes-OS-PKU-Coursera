@@ -1,2 +1,3 @@
-# Notes-OS-PKU-Coursera
-# Notes-OS-PKU-Coursera
+这是一个笔记，记录自Coursera上北京大学的操作系统课。
+Markdown通过stackedit编辑 可能与github的MD标准略有冲突。
+转载注明出处即可。
